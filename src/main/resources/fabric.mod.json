@@ -1,15 +1,15 @@
 {
 	"schemaVersion": 1,
 	"id": "better-recycling",
-	"version": "${version}",
+	"version": "0.0.1v",
 	"name": "Better Recycling",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This is an easy mod. It makes you recycle resource better.",
 	"authors": [
-		"Me!"
+		"Tycon410"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "",
+		"sources": ""
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/better-recycling/icon.png",
@@ -33,8 +33,8 @@
 		}
 	],
 	"depends": {
-		"fabricloader": ">=0.19.3",
-		"minecraft": "~26.1.2",
+		"fabricloader": ">=0.19.2",
+		"minecraft": "26.1-26.1.2",
 		"java": ">=25",
 		"fabric-api": "*"
 	}
