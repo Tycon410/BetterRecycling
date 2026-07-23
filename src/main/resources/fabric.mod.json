@@ -1,9 +1,9 @@
 {
 	"schemaVersion": 1,
 	"id": "better-recycling",
-	"version": "0.0.1v",
+	"version": "0.0.3v",
 	"name": "Better Recycling",
-	"description": "This is an easy mod. It makes you recycle resource better.",
+	"description": "This is an easy mod. It helps you recycle resources better.",
 	"authors": [
 		"Tycon410"
 	],
