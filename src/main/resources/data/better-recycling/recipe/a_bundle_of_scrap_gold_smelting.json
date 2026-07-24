@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": [
+    "minecraft:clock"
+  ],
+  "result": {
+    "id": "better-recycling:a_bundle_of_scrap_gold"
+  }
+}

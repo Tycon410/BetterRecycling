@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "better-recycling:a_bundle_of_scrap_iron",
+    "better-recycling:a_bundle_of_scrap_iron",
+    "better-recycling:a_bundle_of_scrap_iron"
+  ],
+  "result": {
+    "id": "minecraft:iron_ingot"
+  }
+}

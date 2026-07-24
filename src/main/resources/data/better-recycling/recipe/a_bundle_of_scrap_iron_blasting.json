@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": [
+    "minecraft:chainmail_helmet",
+    "minecraft:chainmail_chestplate",
+    "minecraft:chainmail_leggings",
+    "minecraft:chainmail_boots",
+    "minecraft:campass"
+  ],
+  "result": {
+    "id": "better-recycling:a_bundle_of_scrap_iron"
+  }
+}

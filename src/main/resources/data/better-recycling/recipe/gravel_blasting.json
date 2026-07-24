@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": [
+    "minecraft:stone_pickaxe",
+    "minecraft:stone_shovel",
+    "minecraft:stone_axe",
+    "minecraft:stone_hoe",
+    "minecraft:stone_sword",
+    "minecraft:stone_spear"
+  ],
+  "result": {
+    "id": "minecraft:gravel"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "better-recycling:scrap_copper",
+    "better-recycling:scrap_copper",
+    "better-recycling:scrap_copper",
+    "better-recycling:scrap_copper",
+    "better-recycling:scrap_copper",
+    "better-recycling:scrap_copper",
+    "better-recycling:scrap_copper",
+    "better-recycling:scrap_copper",
+    "better-recycling:scrap_copper"
+  ],
+  "result": {
+    "id": "better-recycling:a_bundle_of_scrap_copper"
+  }
+}

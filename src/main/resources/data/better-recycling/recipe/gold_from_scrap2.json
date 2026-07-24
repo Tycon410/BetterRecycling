@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "better-recycling:a_bundle_of_scrap_gold",
+    "better-recycling:a_bundle_of_scrap_gold",
+    "better-recycling:a_bundle_of_scrap_gold"
+  ],
+  "result": {
+    "id": "minecraft:gold_ingot"
+  }
+}

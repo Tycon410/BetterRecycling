@@ -1,9 +1,9 @@
 {
 	"schemaVersion": 1,
 	"id": "better-recycling",
-	"version": "0.0.3v",
+	"version": "0.1.0v",
 	"name": "Better Recycling",
-	"description": "This is an easy mod. It helps you recycle resources better.",
+	"description": "This is an easy mod. It makes you recycle resource better.",
 	"authors": [
 		"Tycon410"
 	],
@@ -11,7 +11,7 @@
 		"homepage": "",
 		"sources": ""
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/better-recycling/icon.png",
 	"environment": "*",
 	"entrypoints": {

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": [
+    "minecraft:copper_helmet",
+    "minecraft:copper_chestplate",
+    "minecraft:copper_leggings",
+    "minecraft:copper_boots",
+    "minecraft:copper_horse_armor",
+    "minecraft:copper_nautilus_armor"
+  ],
+  "result": {
+    "id": "minecraft:copper_ingot"
+  }
+}

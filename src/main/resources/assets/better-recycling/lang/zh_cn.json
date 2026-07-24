@@ -1,0 +1,19 @@
+{
+  "item.better-recycling.suspicious_substance": "测试物品",
+
+  "item.better-recycling.coal_dust": "煤炭粉",
+  "item.better-recycling.lapis_lazuli_dust": "青金石粉",
+  "item.better-recycling.amether_dust": "紫水晶粉",
+  "item.better-recycling.emerald_dust": "绿宝石粉",
+  "item.better-recycling.redstone": "红石",
+  "item.better-recycling.diamond_dust": "钻石粉",
+  "item.better-recycling.netherite_nugget": "下界合金粉",
+  "item.better-recycling.obsidian_shard": "黑曜石碎块",
+
+  "item.better-recycling.scrap_iron": "碎铁",
+  "item.better-recycling.a_bundle_of_scrap_iron": "碎铁捆",
+  "item.better-recycling.scrap_copper": "碎铜",
+  "item.better-recycling.a_bundle_of_scrap_copper": "碎铜捆",
+  "item.better-recycling.scrap_gold": "碎金",
+  "item.better-recycling.a_bundle_of_scrap_gold": "碎金捆"
+}
