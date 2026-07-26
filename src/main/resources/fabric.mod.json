@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "better-recycling",
-	"version": "0.1.0v",
+	"version": "0.1.1",
 	"name": "Better Recycling",
 	"description": "This is an easy mod. It makes you recycle resource better.",
 	"authors": [
@@ -34,7 +34,7 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.19.2",
-		"minecraft": "26.1-26.1.2",
+		"minecraft": "26.1.x",
 		"java": ">=25",
 		"fabric-api": "*"
 	}

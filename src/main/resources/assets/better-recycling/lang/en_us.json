@@ -3,7 +3,7 @@
 
   "item.better-recycling.coal_dust": "Coal Dust",
   "item.better-recycling.lapis_lazuli_dust": "Lapis Lazuli Dust",
-  "item.better-recycling.amether_dust": "Amether Dust",
+  "item.better-recycling.amether_dust": "Amethyst Dust",
   "item.minecraft.redstone": "Redstone Dust",
   "item.better-recycling.redstone": "Redstone",
   "item.better-recycling.diamond_dust": "Diamond Dust",
@@ -13,7 +13,7 @@
   "item.better-recycling.scrap_iron": "Scrap Iron",
   "item.better-recycling.a_bundle_of_scrap_iron": "Bundle Of Scrap Iron",
   "item.better-recycling.scrap_copper": "Scrap Copper",
-  "item.better-recycling.a_bundle_of_scrap_copper": "Bundle Of Scrap Copper",  
+  "item.better-recycling.a_bundle_of_scrap_copper": "Bundle Of Scrap Copper",
   "item.better-recycling.scrap_gold": "Scrap Gold",
   "item.better-recycling.a_bundle_of_scrap_gold": "Bundle Of Scrap Gold"
 }

@@ -40,8 +40,8 @@ public class ModItems {
             Item::new,
             new Item.Properties()
     );
-    public static final Item AMETHUST_DUST = register(
-            "amether_dust",
+    public static final Item AMETHYST_DUST = register(
+            "amethyst_dust",
             Item::new,
             new Item.Properties()
     );
@@ -108,7 +108,7 @@ public class ModItems {
     public static final List<Item> INGREDIENT = List.of(
             COAL_DUST,
             LAPIS_LAZULI_DUST,
-            AMETHUST_DUST,
+            AMETHYST_DUST,
             EMERALD_DUST,
             REDSTONE,
             DIAMOND_DUST,
